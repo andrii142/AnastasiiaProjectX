@@ -1,4 +1,4 @@
-package lesson4;
+package datastructures;
 
 import java.util.*;
 import java.util.function.UnaryOperator;
@@ -73,6 +73,8 @@ public class ListExample {
 
 
         List<String> linkedList = new LinkedList<>();
+
+        Iterator iterator = list.iterator();
 
 
     }

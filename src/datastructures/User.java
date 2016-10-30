@@ -1,4 +1,4 @@
-package lesson4;
+package datastructures;
 
 public class User implements Comparable<User> {
     private String name;
